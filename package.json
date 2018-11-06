@@ -53,7 +53,7 @@
     "url": "https://github.com/sparksevo/sparkscore-p2p.git"
   },
   "dependencies": {
-    "bitcore-lib-sparks": "^0.15.2",
+    "sparkscore-lib": "git+https://m0r4k:zLrBFb3dfCsCeUCAZrFF@bitbucket.org/m0r4k/sparkscore-lib.git#master",
     "bloom-filter": "^0.2.0",
     "node-buffers": "^0.1.1",
     "socks5-client": "^0.3.6"
