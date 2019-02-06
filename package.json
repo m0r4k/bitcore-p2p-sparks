@@ -56,14 +56,14 @@
     "sparkscore-lib": "git+https://m0r4k:zLrBFb3dfCsCeUCAZrFF@bitbucket.org/m0r4k/sparkscore-lib.git#0.16.8",
     "bloom-filter": "^0.2.0",
     "node-buffers": "^0.1.1",
-    "socks5-client": "^0.3.6"
+    "socks5-client": "^1.2.6"
   },
   "devDependencies": {
     "bitcore-build-sparks": "sparkspay/bitcore-build-sparks",
-    "brfs": "^1.2.0",
-    "chai": "~1.10.0",
-    "gulp": "^3.8.10",
-    "sinon": "^1.12.2"
+    "brfs": "^2.0.1",
+    "chai": "~4.2.0",
+    "gulp": "^4.0.0",
+    "sinon": "^7.2.3"
   },
   "license": "MIT"
 }
