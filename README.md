@@ -1,7 +1,7 @@
 sparkscore P2P
 =======
 
-[![NPM Package](https://img.shields.io/npm/v/@sparksevo/sparkscore-p2p.svg?style=flat-square)](https://www.npmjs.org/package/@sparksevo/sparkscore-p2p)
+[![NPM Package](https://img.shields.io/npm/v/bitcore-p2p-sparks.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-p2p-sparks)
 [![Build Status](https://img.shields.io/travis/sparksevo/sparkscore-p2p.svg?branch=master&style=flat-square)](https://travis-ci.org/sparksevo/sparkscore-p2p)
 [![Coverage Status](https://img.shields.io/coveralls/sparksevo/sparkscore-p2p.svg?style=flat-square)](https://coveralls.io/r/sparksevo/sparkscore-p2p?branch=master)
 
@@ -12,12 +12,12 @@ See [the main sparkscore repo](https://github.com/sparksevo/sparkscore) for more
 ## Getting Started
 
 ```sh
-npm install @sparksevo/sparkscore-p2p
+npm install bitcore-p2p-sparks
 ```
 In order to connect to the sparks network, you'll need to know the IP address of at least one node of the network, or use [Pool](/docs/pool.md) to discover peers using a DNS seed.
 
 ```javascript
-var Peer = require('@sparksevo/sparkscore-p2p').Peer;
+var Peer = require('bitcore-p2p-sparks').Peer;
 
 var peer = new Peer({host: '127.0.0.1'});
 
