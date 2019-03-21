@@ -2,8 +2,8 @@ sparkscore P2P
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-p2p-sparks.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-p2p-sparks)
-[![Build Status](https://img.shields.io/travis/sparksevo/sparkscore-p2p.svg?branch=master&style=flat-square)](https://travis-ci.org/sparksevo/sparkscore-p2p)
-[![Coverage Status](https://img.shields.io/coveralls/sparksevo/sparkscore-p2p.svg?style=flat-square)](https://coveralls.io/r/sparksevo/sparkscore-p2p?branch=master)
+[![Build Status](https://img.shields.io/travis/sparkscore-p2p.svg?branch=master&style=flat-square)](https://travis-ci.org/sparkscore-p2p)
+[![Coverage Status](https://img.shields.io/coveralls/sparkscore-p2p.svg?style=flat-square)](https://coveralls.io/r/sparkscore-p2p?branch=master)
 
 `sparkscore-p2p` adds sparks protocol support for sparkscore.
 
