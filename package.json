@@ -50,10 +50,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sparksevo/sparkscore-p2p.git"
+    "url": "https://github.com/m0r4k/sparkscore-p2p.git"
   },
   "dependencies": {
-    "sparkscore-lib": "git+https://github.com/m0r4k/bitcore-lib-sparks.git#master",
+    "bitcore-lib-sparks": "git+https://github.com/m0r4k/bitcore-lib-sparks.git#master",
     "bloom-filter": "^0.2.0",
     "node-buffers": "^0.1.1",
     "socks5-client": "^0.3.6"

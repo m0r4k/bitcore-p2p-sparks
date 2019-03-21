@@ -7,7 +7,7 @@ sparkscore P2P
 
 `sparkscore-p2p` adds sparks protocol support for sparkscore.
 
-See [the main sparkscore repo](https://github.com/sparksevo/sparkscore) for more information.
+See [the main sparkscore repo](https://github.com/m0r4k/sparkscore) for more information.
 
 ## Getting Started
 
@@ -47,7 +47,7 @@ Take a look at the [bitcore guide](http://bitcore.io/guide/peer.html) on the usa
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/sparksevo/sparkscore/blob/master/CONTRIBUTING.md) on the main sparkscore repo for information about how to contribute.
+See [CONTRIBUTING.md](https://github.com/m0r4k/sparkscore/blob/master/CONTRIBUTING.md) on the main sparkscore repo for information about how to contribute.
 
 ## License
 
